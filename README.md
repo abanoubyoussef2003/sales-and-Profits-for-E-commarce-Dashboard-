@@ -5,7 +5,8 @@
 ## 🔍 Project Objective:
 
 Analyze sales and profitability trends to identify top-performing products, regions, and customer segments, and support data-driven decision-making.
-🛠 Tools Used:
+
+## 🛠 Tools Used:
 * Excel (Data Cleaning & Preparation)
 * Pivot Tables & Pivot Charts
 * Slicers & Timelines
