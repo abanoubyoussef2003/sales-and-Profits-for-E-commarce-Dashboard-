@@ -1,4 +1,4 @@
-# sales-and-Profits-for-E-commarce-Dashboard-
+# Sales & Profit Dashboard
 <img width="947" height="786" alt="Sales_Dashboard" src="https://github.com/user-attachments/assets/563e9277-8e95-4c67-a09c-acba55262bb7" />
 <img width="992" height="777" alt="Profit_Dashboard" src="https://github.com/user-attachments/assets/0bc4c684-dbdb-433b-afd4-0f66eb1ede44" />
 
