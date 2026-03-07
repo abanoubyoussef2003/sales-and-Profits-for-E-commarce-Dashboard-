@@ -16,8 +16,9 @@ Analyze sales and profitability trends to identify top-performing products, regi
  
 ## 🛠 Tools Used:
 
-* Excel (Data Cleaning & Preparation)
-* Pivot Tables & Pivot Charts
-* Slicers & Timelines
-* Excel Dashboard Design
+* Microsoft Excel
+* Pivot Tables
+* Pivot Charts
+* Interactive Filters (Slicers)
+* Data Visualization
 
