@@ -6,11 +6,6 @@
 
 Analyze sales and profitability trends to identify top-performing products, regions, and customer segments, and support data-driven decision-making.
 
-## 🛠 Tools Used:
-* Excel (Data Cleaning & Preparation)
-* Pivot Tables & Pivot Charts
-* Slicers & Timelines
-* Excel Dashboard Design
 
 ## 📈 Key Insights:
 
@@ -18,3 +13,11 @@ Analyze sales and profitability trends to identify top-performing products, regi
 * Consumer segment contributed the largest share of sales and profit
 * Sales and profit peak during specific months, highlighting seasonal trends
 * Certain products drive high sales but lower profit, emphasizing margin analysis
+ 
+## 🛠 Tools Used:
+
+* Excel (Data Cleaning & Preparation)
+* Pivot Tables & Pivot Charts
+* Slicers & Timelines
+* Excel Dashboard Design
+
